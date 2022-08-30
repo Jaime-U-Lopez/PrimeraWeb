@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(173, 230, 176);
+    width: 500px;
+    height: 250px;
+   
+
+}
+  
+  #dos {
+    color: rgb(12, 11, 11);
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+    border: 10px;
+    
+    
+  }
+  
+  p {
+    color: rgb(95, 37, 37);
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
